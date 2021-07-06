@@ -16,6 +16,9 @@
     "start": "node index.js",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
   },
+  "engines" : {
+     "node" : ">=0.12" 
+  },
   "author": "",
   "license": "ISC",
   "description": ""
