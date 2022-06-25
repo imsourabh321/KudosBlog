@@ -39,19 +39,16 @@ app.post("/api/upload", upload.single("file"), (req, res) => {
 
 const PORT = process.env.PORT || 5000;
 
+//changes
+app.get('/',(req,res)=>{
+  res.send('This is the backend server of KudosBlog');
+})
+
 app.use("/api/auth", authRoute);
 app.use("/api/users", userRoute);
 app.use("/api/posts", postRoute);
 app.use("/api/categories", categoryRoute);
 
-if ( process.env.NODE_ENV == "production"){
-    app.use(express.static("client/build"));
-    // const path = require("path");
-    // app.get("*", (req, res) => {
-    //     res.sendFile(path.resolve(__dirname, 'client', 'build', 'index.html'));
-    // })
-}
-
 app.listen(PORT, () => {
-  console.log(`Backend is running at port no ${PORT}`);
+  console.log(`Backend is running on ${PORT}`);
 });
