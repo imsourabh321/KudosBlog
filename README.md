@@ -44,22 +44,22 @@ Dive into the world of KudosBlog by following these simple steps:
 
 ### Dashboard View
 
-![Dashboard](link_to_dashboard_screenshot.png)
+![WhatsApp Image 2023-11-24 at 11 43 18 PM](https://github.com/imsourabh321/KudosBlog/assets/77734651/d6e3cd0f-28ed-4958-af8b-92eaddb763fe)
 *Explore a vibrant dashboard designed for seamless navigation.*
 
 ### Secure Registration and Login
 
-![Security](https://postimg.cc/Q9dxJLfR)
+![WhatsApp Image 2023-11-24 at 11 42 24 PM](https://github.com/imsourabh321/KudosBlog/assets/77734651/25fc7c05-84e9-4ab5-af0e-87952325b27c)
 *Register and log in securely to access our community. Your data is protected.*
 
 ### Blog Creation
 
-![Create Blog](link_to_create_blog_screenshot.png)
+![WhatsApp Image 2023-11-24 at 11 43 59 PM](https://github.com/imsourabh321/KudosBlog/assets/77734651/231cb838-6ddf-4077-8cd4-ace0d5c7c235)
 *Craft visually stunning blogs with our easy-to-use interface.*
 
 ### Profile Settings
 
-![Profile](link_to_profile_settings_screenshot.png)
+![WhatsApp Image 2023-11-24 at 11 44 30 PM](https://github.com/imsourabh321/KudosBlog/assets/77734651/055e7db8-e242-4c0b-95d9-b35ad22a1c9f)
 *Tailor your profile to reflect your unique identity within the community.*
 
 ## Technologies Used
